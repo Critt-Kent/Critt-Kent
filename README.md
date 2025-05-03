@@ -1,6 +1,7 @@
 
-# This is the Github page of the <br /> [Center for Research and Innovation in Translation and Translation Technology](https://sites.google.com/site/centretranslationinnovation/home (CRITT)) <br />  at Kent State University. 
+# This is the Github page of the <br /> [Center for Research and Innovation in Translation and Translation Technology (CRITT)](https://sites.google.com/site/centretranslationinnovation/home) <br />  at Kent State University. 
 
-### The primary aim of the research carried out at CRITT is to build up new knowledge of translation and communication processes and provide a basis for technological innovation in this field.
+### The primary aim of the research carried out at CRITT is to build up new knowledge of translation and communication processes and to provide a basis for technological innovation in this field.
 
-CRITT has collected over the past decade a large open-acess database of behavioural Translation Process Data, the [CRITT TPR-DB](https://sites.google.com/site/centretranslationinnovation/tpr-db). This Github page has few python notebooks to access the [TPR-DB](https://sites.google.com/site/centretranslationinnovation/tpr-db) that provide examples how to analyse the behavioral translation data. For detailed information, also visit the [CRITT youtube channel](https://www.youtube.com/@crittatkent6872)
+Over the past decade, CRITT has developed a large, open-access Translation Process Research Database (the [CRITT TPR-DB](https://sites.google.com/site/centretranslationinnovation/tpr-db)), which contains thousands of keylogged translation sessions, many of which also include eye-tracking (gaze) data. This GitHub page offers several Python notebooks demonstrating how to access, analyze, and visualize the behavioral data from the [CRITT TPR-DB](https://sites.google.com/site/centretranslationinnovation/tpr-db). For more detailed information, you can also visit the [CRITT youtube channel](https://www.youtube.com/@crittatkent6872).
+
